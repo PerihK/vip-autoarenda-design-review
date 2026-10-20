@@ -1,0 +1,260 @@
+{
+  "vehicles": [
+    {
+      "key": "e213-rest",
+      "title": "Mercedes-Benz E-Класс W213",
+      "model": "e-class",
+      "variant": "W213 · рестайлинг",
+      "fields": {
+        "year": "2023",
+        "color": "черный",
+        "interior": "черная кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/e-class/e213-rest.html",
+      "category": "Бизнес-класс"
+    },
+    {
+      "key": "e213",
+      "title": "Mercedes-Benz E-Класс W213",
+      "model": "e-class",
+      "variant": "W213",
+      "fields": {
+        "year": "2019",
+        "color": "черный",
+        "interior": "черная кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/e-class/e213.html",
+      "category": "Бизнес-класс"
+    },
+    {
+      "key": "camry-black",
+      "title": "Toyota Camry",
+      "model": "camry",
+      "variant": "Чёрный кузов",
+      "fields": {
+        "year": "",
+        "color": "черный",
+        "interior": "черная кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/camry/camry-black.html",
+      "category": "Бизнес-класс"
+    },
+    {
+      "key": "s221-rest",
+      "title": "Mercedes-Benz S-Класс W221",
+      "model": "s221",
+      "variant": "W221 · рестайлинг",
+      "fields": {
+        "year": "2013",
+        "color": "черный",
+        "interior": "",
+        "seats": ""
+      },
+      "uri": "mercedes-w221-restailing.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "s222",
+      "title": "Mercedes-Benz S-Класс W222",
+      "model": "s-class",
+      "variant": "W222",
+      "fields": {
+        "year": "",
+        "color": "черный",
+        "interior": "",
+        "seats": ""
+      },
+      "uri": "avtopark/s-class/s222.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "s222-rest",
+      "title": "Mercedes-Benz S-Класс W222",
+      "model": "s-class",
+      "variant": "W222 · рестайлинг",
+      "fields": {
+        "year": "",
+        "color": "черный",
+        "interior": "",
+        "seats": ""
+      },
+      "uri": "avtopark/s-class/s222-rest.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "s223",
+      "title": "Mercedes-Benz S-Класс W223",
+      "model": "s-class",
+      "variant": "W223",
+      "fields": {
+        "year": "2023",
+        "color": "черный",
+        "interior": "белая кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/s-class/s223.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "maybach-s222",
+      "title": "Mercedes-Maybach S 222",
+      "model": "maybach",
+      "variant": "S 222",
+      "fields": {
+        "year": "2017",
+        "color": "черный",
+        "interior": "черная кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/maybach/maybach-s222.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "maybach-s223",
+      "title": "Mercedes-Maybach S 223",
+      "model": "maybach",
+      "variant": "S 223",
+      "fields": {
+        "year": "2023",
+        "color": "черный",
+        "interior": "",
+        "seats": ""
+      },
+      "uri": "avtopark/maybach/maybach-s223.html",
+      "category": "Представительский класс"
+    },
+    {
+      "key": "maybach-gls600",
+      "title": "Mercedes-Maybach GLS 600",
+      "model": "gls600",
+      "variant": "GLS 600",
+      "fields": {
+        "year": "2023",
+        "color": "черный",
+        "interior": "коричневая кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/gls600/maybach-gls600.html",
+      "category": "Внедорожники"
+    },
+    {
+      "key": "g55-black",
+      "title": "Mercedes-Benz G55",
+      "model": "g55",
+      "variant": "G55 · чёрный кузов",
+      "fields": {
+        "year": "2015",
+        "color": "черный",
+        "interior": "",
+        "seats": ""
+      },
+      "uri": "mercedes-gelendvagen.html",
+      "category": "Внедорожники"
+    },
+    {
+      "key": "land-cruiser-200",
+      "title": "Toyota Land Cruiser 200",
+      "model": "land-cruiser",
+      "variant": "Land Cruiser 200",
+      "fields": {
+        "year": "2017",
+        "color": "черный",
+        "interior": "коричневая кожа",
+        "seats": ""
+      },
+      "uri": "toyota-land-cruiser-200.html",
+      "category": "Внедорожники"
+    },
+    {
+      "key": "gl-black",
+      "title": "Mercedes-Benz GL",
+      "model": "gl",
+      "variant": "GL · чёрный кузов",
+      "fields": {
+        "year": "2015",
+        "color": "черный",
+        "interior": "бежевая кожа",
+        "seats": ""
+      },
+      "uri": "taksi-mercedes-gl",
+      "category": "Внедорожники"
+    },
+    {
+      "key": "gl500-white",
+      "title": "Mercedes-Benz GL500",
+      "model": "gl",
+      "variant": "GL500 · белый кузов",
+      "fields": {
+        "year": "2015",
+        "color": "белый",
+        "interior": "бежевая кожа",
+        "seats": ""
+      },
+      "uri": "mercedes-gl-belyi.html",
+      "category": "Внедорожники"
+    },
+    {
+      "key": "v-class",
+      "title": "Mercedes-Benz V-Class",
+      "model": "mercedes-v-class",
+      "variant": "V-Class",
+      "fields": {
+        "year": "2019",
+        "color": "черный",
+        "interior": "коричневая кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/mercedes-v-class/v-class.html",
+      "category": "Минивэны"
+    },
+    {
+      "key": "v-class-rest",
+      "title": "Mercedes-Benz V-Class",
+      "model": "mercedes-v-class",
+      "variant": "V-Class · рестайлинг",
+      "fields": {
+        "year": "",
+        "color": "черный",
+        "interior": "коричневая кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/mercedes-v-class/v-class-rest.html",
+      "category": "Минивэны"
+    },
+    {
+      "key": "sprinter-vip-grey",
+      "title": "Mercedes-Benz Sprinter",
+      "model": "sprinter",
+      "variant": "VIP · серый кузов",
+      "fields": {
+        "year": "",
+        "color": "серый",
+        "interior": "кожа",
+        "seats": ""
+      },
+      "uri": "avtopark/sprinter/sprinter-vip-grey.html",
+      "category": "Микроавтобусы"
+    },
+    {
+      "key": "sprinter-lux-white",
+      "title": "Mercedes-Benz Sprinter",
+      "model": "sprinter",
+      "variant": "Люкс · 19 мест · белый кузов",
+      "fields": {
+        "year": "",
+        "color": "белый",
+        "interior": "кожа",
+        "seats": "19"
+      },
+      "uri": "avtopark/sprinter/sprinter-lux-white.html",
+      "category": "Микроавтобусы"
+    }
+  ],
+  "company": "VIP Autoarenda",
+  "phone": "+7 (921) 907-05-55",
+  "phoneHref": "tel:+79219070555",
+  "email": "9070555@gmail.com"
+}
